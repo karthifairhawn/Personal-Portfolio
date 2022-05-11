@@ -1103,7 +1103,7 @@ body.bgvideo #main>section#home:after {
   max-width: 320px;
   left: calc(50vw - 360px);
   top: calc(50vh - 160px);
-  border: 10px solid rgba(255,255,255,.1);
+  border: 10px solid #73b6262a;
   z-index: 1;
 }
 
